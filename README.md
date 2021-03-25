@@ -1,2 +1,22 @@
-# CloudSkillsBootCamp
-Collection of small projects and tests for the CloudSkills Boot Camp
+# Bootcamp Concepts
+
+![header](https://github.com/dboconsultingllc/BootcampConcepts/blob/mainBranch/images/Bootcamp.png)
+
+
+Collection of notes and sample code during 10 week cloud skills bootcamp.
+
+Topics Covered:
+
+* [Python Code](https://github.com/dboconsultingllc/BootcampConcepts/tree/mainBranch/Python)
+
+* [Powershell Code](https://github.com/dboconsultingllc/BootcampConcepts/tree/mainBranch/Powershell)
+
+* Linters and Testers
+
+Blah blah blah
+[another link here](https://google.com).
+
+more info here.
+
+## Getting Started
+More to come
