@@ -19,4 +19,4 @@ Blah blah blah
 more info here.
 
 ## Getting Started
-More to come
+More to come..
