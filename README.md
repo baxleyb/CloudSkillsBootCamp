@@ -20,5 +20,3 @@ Topics Covered:
 
 more info to come
 
-## Getting Started
-More to come..
