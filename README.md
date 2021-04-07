@@ -7,16 +7,13 @@ Collection of notes and sample code during 10 week cloud skills bootcamp.
 
 Topics Covered:
 
-* [Python Code](https://github.com/dboconsultingllc/BootcampConcepts/tree/mainBranch/Python)
+* [Python Code](https://github.com/baxleyb/CloudSkillsBootCamp/tree/main/Python)
 
 * [Powershell Code](https://github.com/dboconsultingllc/BootcampConcepts/tree/mainBranch/Powershell)
 
 * Linters and Testers
 
-Blah blah blah
-[another link here](https://google.com).
-
-more info here.
+more info to come
 
 ## Getting Started
 More to come..
